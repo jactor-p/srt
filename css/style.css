@@ -95,7 +95,18 @@ h1 {
     font-size: 30px;
 }
 
+#page .bvideos {
+    text-align: left;
+    border-top: 5px black;
+    border-top-style: ridge;
+    padding-top: 50px;
+    width: 90%;
+}
+/* .bvideos iframe {
+    position:relative;
+} */
 /* ----------------------------------------------- */
+
 /* ----------Process diagrams Page.html------------ */
 #container .diagram1 {
     position:inherit;
@@ -105,5 +116,6 @@ h1 {
 }
 #container p {
     text-align: center;
+
 }
 /* -------------------------------------------- */
